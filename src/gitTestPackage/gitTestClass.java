@@ -6,6 +6,9 @@ public class gitTestClass {
 		System.out.println("HelloWorld!!");
 
 		System.out.println("HelloMaster!!");
+		
+		System.out.println("HelloMaster!!");
+		System.out.println("HelloMaster!!");
 
 	}
 
