@@ -9,6 +9,8 @@ public class gitTestClass {
 		
 		System.out.println("HelloMaster!!");
 		System.out.println("HelloMaster!!");
+		
+		System.out.println("HelloMaster!!");
 
 	}
 
